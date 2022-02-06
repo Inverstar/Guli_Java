@@ -1,5 +1,6 @@
 //数组基础理论
 import java.util.Arrays;
+//操作数组的工具类
 public class ArrayTest
 {
     public static void main(String[]args)
